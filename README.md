@@ -1,5 +1,5 @@
 # not-found-template
-An error page template built from ngnix 404 error page.
+An error page template built from nginx 404 error page.
 ## Usage
 Replace the placeholders in `index.html`:
 - `Service/Error` — your error and name e.g. `coolservice 404 Not Found`
